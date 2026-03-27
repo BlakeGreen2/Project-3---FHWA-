@@ -19,6 +19,12 @@ Bar Chart
 Boxplots
   Shows the vehicle age across different vehicle types
 
+Contents
+---------------------------------------------------------------------------------
+NHTS(in).csv - NHTS Survey Data used in the coding file
+NGSIM(in).csv - NGSIM Simulation Data used for creating the IDM simulation
+Project 3 Code - An .ipynb coding file with the code for creating each visualization and for the IDM simulation
+README - A description of the project and guide of how to use the contents
 Time Series Plots
   There are two time series plots, one that shows the leader position vs time and one that shows the leader acceleration vs time
 
