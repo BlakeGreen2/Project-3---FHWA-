@@ -1,5 +1,5 @@
 # Project-3---FHWA-
-
+-------------------------------------------------------------------------------
 This repository has a fully reproducible Python workflow for cleaning, processing, and visualizing data from the NHTS and NGSIM survey/observation data. The project takes the raw variables and processes them into visual summaries in the form of bar charts, histograms, boxplots, time series plots, and a simulation. These help identify trends in household travel behavior and vehicle characteristics.
 
 Data Requirements:
@@ -20,7 +20,8 @@ Boxplots
 
 Time Series Plots
   There are two time series plots, one that shows the leader position vs time and one that shows the leader acceleration vs time
+
 --------------------------------------------------------------------------------
 IDM Simulation:
-
+--------------------------------------------------------------------------------
 The IDM simulation has defined functions that compare the trajectory of the leader and create a simulated follower. This simulation follower is compared to a real follower data for that leader trajectory. Different trajectories can be tested and shown on the graph by changing the trajectory_number (anything from 1-16). 
