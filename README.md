@@ -6,6 +6,7 @@ Data Requirements:
 The data needs to contain the following variables to have the same plots as this workflow: Vehicle Type, Vehicle Age, Vehicles Per Household, Speed, Acceleration, and Position
 
 To run this script pandas, numpy, matplotlib, and seaborn will need to be imported into the code.
+
 --------------------------------------------------------------------------------
 Overview of Charts
 --------------------------------------------------------------------------------
