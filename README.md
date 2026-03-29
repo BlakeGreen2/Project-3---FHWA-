@@ -32,10 +32,26 @@ The IDM simulation has defined functions that compare the trajectory of the lead
 
 Contents
 ---------------------------------------------------------------------------------
-NHTS(in).csv - NHTS Survey Data used in the coding file
-NGSIM(in).csv - NGSIM Simulation Data used for creating the IDM simulation
-Project 3 Code - An .ipynb coding file with the code for creating each visualization and for the IDM simulation
+NHTS(in).csv - 
+  NHTS Survey Data used in the coding file
+
+NGSIM(in).csv - 
+  NGSIM Simulation Data used for creating the IDM simulation
+
+Project 3 Code - 
+  An .ipynb coding file with the code for creating each visualization and for the IDM simulation
+
 README - A description of the project and guide of how to use the contents
-Time Series Plots
-  There are two time series plots, one that shows the leader position vs time and one that shows the leader acceleration vs time
+
+Annotated Code Document - 
+  Document that explains what each line of code does and why it's there
+
+Scope of Work - 
+  Document that outlines the tasks that would be taken on for this project, the timeline, and the deliverables
+
+Gantt Chart - 
+  A chart that outlines all tasks, when they will be done, and who they will be done by
+
+Report - 
+  A report that outlines the methods in a reproducible way and that explains the results of the project
 
