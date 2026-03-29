@@ -16,17 +16,21 @@ To run this script pandas, numpy, matplotlib, and seaborn will need to be import
 --------------------------------------------------------------------------------
 Overview of Charts
 --------------------------------------------------------------------------------
-Histogram
+Histogram - 
   Displays the distribution of vehicles per household helping to identify common household vehicle counts
 
-Bar Chart
+Bar Chart - 
   Shows the number of vehicles per household and how many households there are of each type
 
-Boxplots
+Boxplots - 
   Shows the vehicle age across different vehicle types
 
+Line Series Plots - 
+  An acceleration vs time and position vs time graph showing how a cars trajectory and dynamics change over the observed time period
+
+
 --------------------------------------------------------------------------------
-IDM Simulation:
+IDM Simulation
 --------------------------------------------------------------------------------
 The IDM simulation has defined functions that compare the trajectory of the leader and create a simulated follower. This simulation follower is compared to a real follower data for that leader trajectory. Different trajectories can be tested and shown on the graph by changing the trajectory_number (anything from 1-16). 
 
